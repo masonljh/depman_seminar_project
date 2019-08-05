@@ -1,8 +1,10 @@
-package com.depman.androidmvpproject;
+package com.depman.androidmvpproject.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.depman.androidmvpproject.R;
 
 public class MainActivity extends AppCompatActivity {
 
